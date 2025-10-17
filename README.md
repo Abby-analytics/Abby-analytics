@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abby-analytics
 - 👀 I’m interested in Analytics, Data Science, Machine Learning.
 - 💞️ I’m looking to collaborate on Beginner Friendly analytics challenge, Open Source data projects. 
-- 📫 How to reach me abiodunolofingbemi1@gmail.com
+- 📫 How to reach me abiodunolofingbemi2@gmail.com
 - 😄 Pronouns: He,Him
 
 <!---
