@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abby-analytics
 - 👀 I’m interested in Analytics, Data Science, Machine Learning.
-- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Beginner Friendly analytics challenge, Open Source data projects. 
 - 📫 How to reach me abiodunolofingbemi1@gmail.com
 - 😄 Pronouns: He,Him
